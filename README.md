@@ -1,76 +1,105 @@
 # VFX-Project-Business-Analytics-Dashboard
 
-## Project Overview
 
-This project is an interactive Power BI dashboard developed for analyzing VFX project operations, employee performance, project profitability, and resource utilization. The dashboard provides business insights through KPI tracking, visual analytics, and operational reporting.
+## 📌 Project Overview
+
+An interactive multi-page Power BI dashboard developed for analyzing VFX project operations, employee performance, project profitability, and resource utilization.
+
+This project focuses on transforming raw operational data into meaningful business insights through KPI-driven analytics and visual storytelling.
 
 ---
 
-## Dashboard Pages
+# 📊 Dashboard Pages
 
-### 1. Executive Overview
+## 🏠 Executive Overview
 
-* Revenue & profit KPIs
-* Project completion insights
-* Client and department analysis
-* Business performance summary
+* Revenue & Profit KPIs
+* Project performance summary
+* Client analysis
+* Business overview metrics
 
-### 2. Project Performance
+## 📈 Project Performance
 
-* Project profitability analysis
+* Profitability analysis
 * Expense breakdown
-* Client-wise performance
+* Client-wise performance tracking
 * Profit margin trends
 
-### 3. Employee Performance
+## 👨‍💼 Employee Performance
 
-* Employee performance ratings
-* Salary vs experience analysis
-* Department-wise employee distribution
+* Employee rating analysis
+* Salary vs Experience insights
+* Department distribution
 * Overtime analysis
 
-### 4. Resource & Utilization
+## ⚙️ Resource & Utilization
 
-* Department workload analysis
-* Resource utilization tracking
+* Department workload tracking
+* Resource utilization monitoring
 * Overtime trends
-* Project-wise work hours analysis
+* Work hours analysis
 
 ---
 
-## Tools & Technologies Used
+# 🛠️ Tools & Technologies
 
 * Power BI
 * DAX
 * Power Query
 * Excel
-* Basic Snowflake Connectivity
 * Data Modeling
+* Basic Snowflake Connectivity
 
 ---
 
-## Key Features
+# ✨ Key Features
 
-* Interactive multi-page dashboard
-* KPI-driven reporting
-* Navigation buttons & bookmarks
-* Reset filters functionality
-* Slicers for dynamic filtering
-* Business-oriented visual storytelling
+✅ Interactive Multi-Page Dashboard
+✅ KPI-Based Reporting
+✅ Navigation Buttons & Bookmarks
+✅ Reset Filters Functionality
+✅ Dynamic Slicers & Filtering
+✅ Business-Oriented Visual Analytics
 
 ---
 
-## Business Insights Covered
+# 📷 Dashboard Preview
 
-* Profitability tracking
+<img width="1366" height="731" alt="Project Executive _Overview" src="https://github.com/user-attachments/assets/32795257-f6cd-4965-aa57-a93bbb8b278c" />
+
+
+---
+
+# 📌 Business Insights Covered
+
+* Project profitability tracking
 * Workforce analytics
-* Resource utilization monitoring
 * Department performance analysis
-* Overtime and workload trends
+* Employee overtime monitoring
+* Resource workload analysis
+* Operational reporting insights
 
 ---
 
-## Project Purpose
+# 🎯 Project Outcome
 
-The goal of this project is to demonstrate business reporting, analytics, and dashboard development skills using Power BI for operational and workforce insights.
+This project helped strengthen practical skills in:
+
+* Business reporting
+* Dashboard design
+* Data visualization
+* DAX calculations
+* Interactive Power BI development
+* Analytical storytelling
+
+---
+
+# 👩‍💻 About Me
+
+HR Operations professional transitioning into HR Analytics & Business Intelligence with hands-on experience in Power BI reporting, employee analytics, and dashboard development.
+
+Focused on building data-driven reporting solutions for workforce, project, and operational analytics.
+
+---
+
 
