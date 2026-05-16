@@ -65,8 +65,10 @@ This project focuses on transforming raw operational data into meaningful busine
 
 # 📷 Dashboard Preview
 
-<img width="1366" height="731" alt="Project Executive _Overview" src="https://github.com/user-attachments/assets/32795257-f6cd-4965-aa57-a93bbb8b278c" />
-
+<img width="1366" height="731" alt="Project Executive _Overview" src="https://github.com/user-attachments/assets/6495ecb1-3d13-4f54-a60d-c92cf97e953e" />
+<img width="1366" height="727" alt="Project_Performance" src="https://github.com/user-attachments/assets/1585a320-0023-4cc1-9e2c-f9d7c8d0e548" />
+<img width="1366" height="735" alt="Employee_ Performance" src="https://github.com/user-attachments/assets/b0a4b11f-6dfc-42b0-8cd7-b069cc7a0a1d" />
+<img width="1366" height="735" alt="Resource_Utilization" src="https://github.com/user-attachments/assets/94e2d4a2-7e63-46bf-8545-edbcc5e1e0d2" />
 
 ---
 
